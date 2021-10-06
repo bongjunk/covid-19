@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bongjun-kim94/covid-19.git/static/css/main.bd3bcb8d.chunk.css",
+    "main.js": "/bongjun-kim94/covid-19.git/static/js/main.1a9fe89d.chunk.js",
+    "main.js.map": "/bongjun-kim94/covid-19.git/static/js/main.1a9fe89d.chunk.js.map",
+    "runtime-main.js": "/bongjun-kim94/covid-19.git/static/js/runtime-main.da9a6719.js",
+    "runtime-main.js.map": "/bongjun-kim94/covid-19.git/static/js/runtime-main.da9a6719.js.map",
+    "static/js/2.0a15660f.chunk.js": "/bongjun-kim94/covid-19.git/static/js/2.0a15660f.chunk.js",
+    "static/js/2.0a15660f.chunk.js.map": "/bongjun-kim94/covid-19.git/static/js/2.0a15660f.chunk.js.map",
+    "static/js/3.ff91e0f9.chunk.js": "/bongjun-kim94/covid-19.git/static/js/3.ff91e0f9.chunk.js",
+    "static/js/3.ff91e0f9.chunk.js.map": "/bongjun-kim94/covid-19.git/static/js/3.ff91e0f9.chunk.js.map",
+    "index.html": "/bongjun-kim94/covid-19.git/index.html",
+    "static/css/main.bd3bcb8d.chunk.css.map": "/bongjun-kim94/covid-19.git/static/css/main.bd3bcb8d.chunk.css.map",
+    "static/js/2.0a15660f.chunk.js.LICENSE.txt": "/bongjun-kim94/covid-19.git/static/js/2.0a15660f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.da9a6719.js",
+    "static/js/2.0a15660f.chunk.js",
+    "static/css/main.bd3bcb8d.chunk.css",
+    "static/js/main.1a9fe89d.chunk.js"
+  ]
+}
