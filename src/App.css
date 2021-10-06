@@ -1,38 +1,57 @@
+html, body, p ,h1, h2, h3{margin:0px;}
 .App {
   text-align: center;
+  width:100%; height:500px;
+  
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+table{border-collapse:  collapse;}
+h2{margin-bottom:20px; margin-top:100px;}
+.header{
+  background:rgb(77,75, 233);
+  padding: 30px;
+  color:#fff; 
+  text-align:center;
+  font-size:2em;
+  text-decoration: dashed;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.header nav a{
+  text-decoration: none;
+  padding:0 10px;
+  font-size:0.9em;
+  color:#000;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+main{width:70%; margin:100px auto;}
+main .kor{}
+main .kor div{
+  width:100%;
+  display:table;
+  justify-content:space-between;
+  text-align:center;
 }
-
-.App-link {
-  color: #61dafb;
+main .kor div:nth-of-type(1){font-size:1.2em; font-weight:bold;}
+main .kor div span{
+  display:table-cell;
+  border:1px solid #ddd;
+  padding:50px; width:33%;
 }
+main .kor div:nth-of-type(2){background:#f3f3f3; margin-top:10px;}
+main .kor div:nth-of-type(2) span{padding:15px;}
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+main .area{}
+main .area div{
+  border:1px solid #ddd; background:#f5f5f5;
+  text-align:center; padding:60px;
+}
+main .area div select{min-width:200px; padding:10px;}
+main .area div table{
+  width:100%; background:#fff;
+  margin-top:30px;
+}
+main .area div table caption{
+  margin:10px;
+  font-weight: bold; font-size:2em;
+}
+main .area div table th,
+main .area div table td{
+  padding:15px; border:1px solid #000;
 }
